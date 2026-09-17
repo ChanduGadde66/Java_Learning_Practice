@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Day1 - Variables &amp; DataTypes/DataTypes &amp; Variables" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Day1 - Variables &amp; DataTypes/Packages" isTestSource="false" packagePrefix="com.bank.account" />
       <sourceFolder url="file://$MODULE_DIR$/Day2 - Operators" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day3 - Input &amp; Output Statements" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
